@@ -1,3 +1,7 @@
 **/Debug/
+**/.history/
+/.metadata
+history.index
 *.log
+*.snap
 *.bak
